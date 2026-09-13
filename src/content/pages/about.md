@@ -1,37 +1,23 @@
 ---
 title: "About"
-description: "A bit about me and this blog."
+description: "Tentang Rumi dan ruang tulisannya."
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+Halo, saya Rumi Rifai.
 
-![Astro Paper](@/assets/images/astropaper-og.jpg)
+Blog ini adalah wadah untuk menulis tentang apa pun yang sempat saya pikirkan, rasakan, dan pelajari. Isinya bukan hanya sekadar opini, tetapi juga refleksi dari rasa penasaran, pengalaman hidup, dan beberapa momen kecil yang ternyata cukup penting untuk diingat.
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+Saya suka menulis tentang kehidupan, perasaan, pemikiran, dan semua hal yang membuat manusia terus tumbuh. Banyak tulisan di sini muncul dari pengalaman sehari-hari, lalu berkembang jadi sebuah catatan yang mungkin bisa berguna untuk orang lain—atau setidaknya bermanfaat sebagai pengingat bagi diri saya sendiri.
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+## Yang biasanya saya tulis
 
-## Features
+- refleksi hidup
+- pemikiran tentang kebahagiaan dan perubahan
+- catatan kecil dari perjalanan belajar dan tumbuh
+- pengalaman yang terasa biasa, tapi punya arti
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+## Tujuan blog ini
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+Saya tidak menulis untuk menjadi sempurna. Saya menulis agar saya tetap jujur pada diri sendiri, dan agar satu hari nanti saya bisa melihat bagaimana cara saya berpikir, merasa, dan berubah dari waktu ke waktu.
 
-and so much more.
-
-## Show your support
-
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
-
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+Kalau kamu sedang membaca ini, semoga beberapa tulisannya bisa menginspirasi, menghibur, atau setidaknya memberi sudut pandang baru.
